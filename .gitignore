@@ -1,0 +1,18 @@
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+/.cache-loader/
+
+temp/
+
+# Certificate information for node webserver
+cert.pem
+key.pem
+
+# Built files for webserver
+web/js/
+web/images/
+web/fonts/
+
